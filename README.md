@@ -1,0 +1,1 @@
+# retrieveimage_rust_lambda
